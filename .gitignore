@@ -2,3 +2,4 @@
 #This is a file which is going to ignore stuff like .txt for example
 
 *.txt
+!will_not_ignore.txt
