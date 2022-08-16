@@ -1,0 +1,4 @@
+#This is a comment
+#This is a file which is going to ignore stuff like .txt for example
+
+*.txt
